@@ -1,0 +1,15 @@
+D:\C#\OOP\QLNH\QLNH\bin\Debug\net6.0\QLNH.exe
+D:\C#\OOP\QLNH\QLNH\bin\Debug\net6.0\QLNH.deps.json
+D:\C#\OOP\QLNH\QLNH\bin\Debug\net6.0\QLNH.runtimeconfig.json
+D:\C#\OOP\QLNH\QLNH\bin\Debug\net6.0\QLNH.dll
+D:\C#\OOP\QLNH\QLNH\bin\Debug\net6.0\QLNH.pdb
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.csproj.AssemblyReference.cache
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.AssemblyInfoInputs.cache
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.AssemblyInfo.cs
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.csproj.CoreCompileInputs.cache
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.dll
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\refint\QLNH.dll
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.pdb
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\QLNH.genruntimeconfig.cache
+D:\C#\OOP\QLNH\QLNH\obj\Debug\net6.0\ref\QLNH.dll
